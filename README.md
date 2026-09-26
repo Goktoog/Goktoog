@@ -1,4 +1,4 @@
-# Hi, I'm Göktuğ 👋
+# Hi, I'm Göktuğ 
 **Software Engineer | Computer Engineering Graduate**
 
 Computer Engineering graduate specializing in **C# / .NET backend development**, **React frontend applications**, and **IT / System Operations**. I focus on writing clean, maintainable code, building responsive interfaces, and architecting robust web solutions.
@@ -35,33 +35,32 @@ Computer Engineering graduate specializing in **C# / .NET backend development**,
 - Interactive map-based quiz and study web app designed for Turkish geography preparation.
 - Features custom state management, dynamic UI rendering, and LocalStorage data handling.
 
-#### 🎵 Web Audio Task Manager (React)
+####  Web Audio Task Manager (React)
 - **Tech Stack:** React, Web Audio API, Canvas Confetti, LocalStorage
 - Dynamic task management application integrating Web Audio API for real-time sound synthesis.
 - Implements state persistence, interactive visual feedback, and custom UI components.
 
-#### 🤖 Discord Server Database & Management Bot
+####  Discord Server Database & Management Bot
 - **Tech Stack:** Node.js, JavaScript, Discord.js
 - Custom automation bot designed to manage game databases and server interactions.
 - Includes paginated embed responses, Slash commands, and dynamic list filtering.
 
-#### 🎮 C# Advanced Physics & Systems Controller
+####  C# Advanced Physics & Systems Controller
 - **Tech Stack:** C#, Unity Engine, OOP Architecture
 - Modular player controller demonstrating solid Object-Oriented Programming principles.
 - Focuses on event-driven mechanics, Custom Rigidbody physics, and code performance optimization.
 
 ---
 
-### 💼 Technical Background & Experience
+###  Technical Background & Experience
 
 - **Technical Operations (TechOps) & IT Support:** Hands-on experience with hardware troubleshooting, network infrastructure, and system deployments.
 - **Academic Foundation:** Computer Engineering degree with core focus on Algorithms, Data Structures, Relational Databases, and Software Architecture.
 
 ---
 
-### 📬 Connect with Me
 
-### 📬 Connect with Me
+###  Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/goktugodemis)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Goktoog)
