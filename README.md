@@ -61,6 +61,8 @@ Computer Engineering graduate specializing in **C# / .NET backend development**,
 
 ### 📬 Connect with Me
 
-- **LinkedIn:** [https://www.linkedin.com/in/goktugodemis/)
-- **GitHub:** [https://github.com/Goktoog)
-- **Email:** goktugodemis@gmail.com
+### 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/goktugodemis)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Goktoog)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goktugodemis@gmail.com)
