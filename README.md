@@ -61,6 +61,6 @@ Computer Engineering graduate specializing in **C# / .NET backend development**,
 
 ### 📬 Connect with Me
 
-- **LinkedIn:** [linkedin.com/in/YOUR-PROFILE](https://linkedin.com)
-- **GitHub:** [github.com/YOUR-USERNAME](https://github.com)
-- **Email:** your.email@example.com
+- **LinkedIn:** [https://www.linkedin.com/in/goktugodemis/)
+- **GitHub:** [https://github.com/Goktoog)
+- **Email:** goktugodemis@gmail.com
